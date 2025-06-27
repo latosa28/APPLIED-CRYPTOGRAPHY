@@ -107,3 +107,8 @@ The BBS is centralized, running on a server listening at a known (IP, port). The
 
 For detailed information on design, protocol flows, cryptographic choices, and data structures, refer to the full technical specification document:  
 `Report progetto crittografia_LATOSA_SCARABAGGIO.pdf`
+
+## 7. Authors
+
+- [Giuseppe Pio La Tosa] 
+- [Giuseppe Scarabaggio]
