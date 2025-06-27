@@ -103,7 +103,7 @@ The BBS is centralized, running on a server listening at a known (IP, port). The
 - The client must provide the correct OTP to complete registration.
 - On success, credentials are saved in `Database.txt` in the format: email:username:salt$hash(salt || password)
 
-![Diagramma del protocollo](Screenshot_2025-06-27_125331.png)
+![Diagramma del protocollo](regisrazione)
 
 ## 6. Further Documentation
 
