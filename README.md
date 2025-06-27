@@ -104,6 +104,8 @@ The BBS is centralized, running on a server listening at a known (IP, port). The
 - On success, credentials are saved in `Database.txt` in the format: email:username:salt$hash(salt || password)
 
 ![Diagramma del protocollo](registrazione)
+![Diagramma del protocollo](login)
+![Diagramma del protocollo](operazioni)
 
 ## 6. Further Documentation
 
